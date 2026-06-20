@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-sonrisa-sensual/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tu sonrisa sensual](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-sonrisa-sensual/) |
+| **Get License** | [Request Licensing for Tu sonrisa sensual](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-sonrisa-sensual/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d9646f992fcb2de53230f4bfa4da3913bcc55edbb18ef1a878f9158cf9e6a642` |
 | **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

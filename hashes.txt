@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu sonrisa sensual
+
+This log tracks the cryptographic history and versioning for the song **Tu sonrisa sensual** (tu-sonrisa-sensual).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T03:55:49.475138 | `v1` | `d9646f992fcb2de53230f4bfa4da3913bcc55edbb18ef1a878f9158cf9e6a642` | `7688d6805b3b252fef3980f03dca582e2ff6a68818d566bea0156c903d9360b5` | `2026-06-21_tu-sonrisa-sensual-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
