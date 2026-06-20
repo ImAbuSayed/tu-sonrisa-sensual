@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-sonrisa-sensual/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Tu sonrisa sensual](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-sonrisa-sensual/) |
+| **Get License** | [License this song: Tu sonrisa sensual](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-sonrisa-sensual/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu sonrisa sensual, me tiene en el aire
+> Ese movimiento lento, no me deja hablarte
+> Cuando miras así, el mundo se detiene
+> Solo quiero esta noche, que el tiempo no nos lleve
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
